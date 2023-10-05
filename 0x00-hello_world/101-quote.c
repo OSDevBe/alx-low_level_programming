@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: A C program that prints a quote 
+ * Description: A C program that prints a quote
  * 			without using printf or puts to stderr
  *
  * Return: return 1 (Error)
