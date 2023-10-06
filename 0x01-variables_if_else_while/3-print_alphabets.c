@@ -18,10 +18,10 @@ int main(void)
 		c++;
 	}
 
-	c = 'Z';
+	c = 'A';
 
 	while (c <= 'Z')
- 	{
+	{
 		putchar(c);
 		c++;
 	}
