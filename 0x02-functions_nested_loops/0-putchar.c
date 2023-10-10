@@ -10,7 +10,7 @@
 
 int main(void)
 {
-    int c;
+	int c;
 	char str[] = "_putchar";
 
 	for (c = 0; c < 8; c++)
