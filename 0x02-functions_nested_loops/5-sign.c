@@ -2,7 +2,7 @@
 
 /**
  * print_sign - print the sign of the number
- * 				or zero if it's 0
+ *			or zero if it's 0
  *
  * @n: arg is an int
  *
