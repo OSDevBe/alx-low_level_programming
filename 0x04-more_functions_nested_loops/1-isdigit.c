@@ -3,7 +3,7 @@
 /**
  * _isupper - check if c is digit
  *
- * @c: input is a char as an int of number
+ * @c: input is a char as an int of num
  *
  * Return: 1 if its digit, 0 if not
  */
