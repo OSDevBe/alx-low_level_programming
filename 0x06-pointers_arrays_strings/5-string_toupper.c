@@ -3,7 +3,7 @@
 /**
  * string_toupper - from lower to upper
  *
- * @s: arg ptr to string
+ * @str: arg ptr to string
  *
  * Return: arg ptr of string
  */
