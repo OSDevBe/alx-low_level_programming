@@ -8,15 +8,15 @@
  * Return: arg ptr of string
  */
 
-char *string_toupper(char *s)
+char *string_toupper(char *str)
 {
 	int i = 0;
 
-	while (s[i] != '\0')
+	while (str[i] != '\0')
 	{
-		if (s[i] >= 'A' && s[i] <= "Z")
-			s[i] = s[i] - 32;
+		if (str[i] >= 'A' && str[i] <= "Z")
+			str[i] = str[i] - 32;
 		i++;
 	}
-	return (s);
+	return (str);
 }
