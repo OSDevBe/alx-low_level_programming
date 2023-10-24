@@ -3,9 +3,9 @@
 /**
  * _memset - fill @n bytes of @s with @b
  *
- * @n: arg  u int 
+ * @n: arg  u int
  *
- * @s: arg char * 
+ * @s: arg char *
  *
  * @b: char to fill
  *
