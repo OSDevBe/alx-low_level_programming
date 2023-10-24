@@ -3,7 +3,7 @@
 /**
  * _memcpy - copies @n bytes from @src to @dest
  *
- * @n: arg u int 
+ * @n: arg u int
  *
  * @src: arg char * src
  *
