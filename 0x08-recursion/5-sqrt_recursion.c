@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * check - functtion for the square root
+ * _fsqrt - functtion for the square root
  *
  * @tmp: int
  *
