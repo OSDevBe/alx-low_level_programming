@@ -13,9 +13,9 @@
 
 int _isNumber(char num[])
 {
-	int i;
+	int i, len = strlen(num);
 
-	for (i = 0; i < strlen(num); i++)
+	for (i = 0; i < len; i++)
 	{
 		if (!isdigit(num[i]))
 			return (1);
