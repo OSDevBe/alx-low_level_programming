@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * string_nconcat - concat @s1 & n of @s2 
+ * string_nconcat - concat @s1 & n of @s2
  *
  * @s1: string
  *
