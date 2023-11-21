@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * add_nodeint - add node at the end of list
+ * add_nodeint_end - add node at the end of list
  *
  * @head: ptr ptr to head list
  *
