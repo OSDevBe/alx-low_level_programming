@@ -10,7 +10,7 @@
  * Return: bit at index or -1
  */
 
-int get_bit(unsigned long int n, unsigned int index) 
+int get_bit(unsigned long int n, unsigned int index)
 {
 	unsigned long int shifted;
 	int bit_value;
@@ -20,7 +20,7 @@ int get_bit(unsigned long int n, unsigned int index)
 
 	shifted = n >> index;
 
-    bit_value = shifted & 1;
+	bit_value = shifted & 1;
 
-    return bit_value;
+	return (bit_value);
 }
